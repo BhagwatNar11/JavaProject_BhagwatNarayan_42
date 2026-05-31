@@ -1,0 +1,12 @@
+--- All Expenses ---
+Food ₹250.0 05/2026
+Travel ₹500.0 05/2026
+Shopping ₹1200.0 05/2026
+
+Monthly Report Total : ₹1950.0
+Highest Expense Category : Shopping
+
+--- Data loaded from file ---
+Food ₹250.0 05/2026
+Travel ₹500.0 05/2026
+Shopping ₹1200.0 05/2026

@@ -1,0 +1,19 @@
+Number of test cases: 1
+
+======================================== TEST 1 ========================================
+
+Enter cover file path: sample.txt
+Enter secret message: Hello
+
+✓ Encoded file saved: encoded_1.txt
+
+=== Cover Text (Visually Unchanged) ===
+This is a sample cover text file used for hiding a secret message inside spaces.
+The text looks unchanged when viewed normally.
+
+=== Hidden Message Retrieved ===
+Original: "Hello"
+Retrieved: "Hello"
+Status: ✓ SUCCESS
+
+✓ Steganography System Complete!
